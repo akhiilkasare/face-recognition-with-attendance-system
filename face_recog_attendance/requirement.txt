@@ -1,0 +1,11 @@
+pip install cmake==3.18.0
+pip install dlib==19.21.0
+pip install face-recognition==0.1.7
+pip install opencv-python
+sudo apt-get install g++
+conda install --channel menpo opencv
+pip3 install --upgrade --upgrade-strategy only-if-needed face_recognition
+conda install -c anaconda cmake-binary 
+conda install -c conda-forge dlib
+conda install -c conda-forge/label/cf201901 dlib
+conda install -c conda-forge/label/cf202003 dlib
