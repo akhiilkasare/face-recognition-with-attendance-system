@@ -28,3 +28,5 @@ The facial recognition process can be split into two major stages: processing wh
 
 ## DEMO
 
+![alt-text](https://github.com/akhiilkasare/face-recognition-with-attendance-system/blob/master/face_recog_attendance/face_recognition.gif)
+
